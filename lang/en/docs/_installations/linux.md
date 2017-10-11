@@ -37,7 +37,10 @@ sudo yum install yarn
 ## OR ##
 sudo dnf install yarn
 ```
-
+### OpenSUSE
+```sudo zypper ar -f https://dl.yarnpkg.com/rpm/ Yarn
+sudo zypper in yarn
+```
 ### Arch Linux
 
 On Arch Linux, Yarn can be installed through the official package manager.
